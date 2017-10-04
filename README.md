@@ -7,6 +7,7 @@ Installation
 1. To run in Terminal, navigate to the directory containing the files 
 
 ***enterainment_centre.py 
+
 ***media.py.
 
 2. Run the line of code ```bash python3 entertainment_center.py ```
