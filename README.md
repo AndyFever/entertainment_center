@@ -1,13 +1,11 @@
 # entertainment_center
-example website for full stack nano degree - in python
-
-Written and tested against python3.
+Displays some classic films with their trailers and movie info. 
 
 Installation
 ------------
 
-Clone the repository to your machine and then run
-
-```bash
-python3 entertainment_center.py
-```
+1. To run in Terminal, navigate to the directory containing the files 
+-enterainment_centre.py 
+-media.py.
+2. Run the line of code ```bash python3 entertainment_center.py ```
+3. The application Fresh Tomatoes will then open in your default browser
